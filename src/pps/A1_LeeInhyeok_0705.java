@@ -3,7 +3,7 @@ package pps;
 import java.util.Arrays;
 import java.util.LinkedList;
 
-public class A1_LeetCode_455 {
+public class A1_LeeInhyeok_0705 {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

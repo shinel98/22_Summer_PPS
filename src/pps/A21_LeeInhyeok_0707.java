@@ -2,7 +2,7 @@
 	
 	import java.util.Scanner;
 	
-	public class A21_BaekJoon_2010 {
+	public class A21_LeeInhyeok_0707 {
 	
 		public static void main(String[] args) {
 			// TODO Auto-generated method stub

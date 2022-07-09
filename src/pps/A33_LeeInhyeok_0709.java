@@ -2,7 +2,7 @@ package pps;
 
 import java.util.Scanner;
 
-public class A33_BaekJoon_2953 {
+public class A33_LeeInhyeok_0709 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

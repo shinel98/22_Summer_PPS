@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Set;
 import java.util.HashSet;
 
-public class A34_BaekJoon_3052 {
+public class A34_LeeInhyeok_0709 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

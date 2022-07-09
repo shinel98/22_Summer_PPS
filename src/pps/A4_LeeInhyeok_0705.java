@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class A4_programmers_12910 {
+public class A4_LeeInhyeok_0705 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

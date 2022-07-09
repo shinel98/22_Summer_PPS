@@ -1,6 +1,6 @@
 package pps;
 
-public class A3_LeetCode_66 {
+public class A3_LeeInhyeok_0705 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

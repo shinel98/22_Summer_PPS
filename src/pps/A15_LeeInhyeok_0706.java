@@ -5,7 +5,7 @@
 			import java.io.InputStreamReader;
 			import java.util.StringTokenizer;
 			
-			public class A15_BaekJoon_2475 {
+			public class A15_LeeInhyeok_0706 {
 				public static void main(String[] args) throws IOException  {
 					
 					BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));

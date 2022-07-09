@@ -3,7 +3,7 @@ package pps;
 import java.math.BigInteger;
 import java.util.Scanner;
 
-public class A28_BaekJoon_10757 {
+public class A28_LeeInhyeok_0708 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

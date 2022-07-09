@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
-public class A2_LeetCode_118 {
+public class A2_LeeInhyeok_0705 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -1,6 +1,6 @@
 package pps;
 
-public class A6_programmers_12916 {
+public class A6_LeeInhyeok_0706 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

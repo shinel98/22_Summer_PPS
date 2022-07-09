@@ -2,7 +2,7 @@ package pps;
 
 import java.util.Collections;
 
-public class A5_programmers_49993 {
+public class A5_LeeInhyeok_0705 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

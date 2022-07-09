@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 
-public class A17_BaekJoon_1475 {
+public class A17_LeeInhyeok_0707 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub

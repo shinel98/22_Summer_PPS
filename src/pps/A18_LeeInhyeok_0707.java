@@ -8,7 +8,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.StringTokenizer;
 
-public class A18_BaekJoon_1026 {
+public class A18_LeeInhyeok_0707 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
