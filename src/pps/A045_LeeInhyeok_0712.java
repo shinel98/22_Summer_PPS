@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class A45_LeeInhyeok_0712 {
+public class A045_LeeInhyeok_0712 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub

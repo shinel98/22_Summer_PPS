@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /*
  * 백준 5355번 
  */
-public class A35_LeeInhyeok_0712 {
+public class A035_LeeInhyeok_0712 {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		// TODO Auto-generated method stub

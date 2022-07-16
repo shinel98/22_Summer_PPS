@@ -6,7 +6,7 @@ import java.util.Scanner;
  * 백준 2775번 
  */
 
-public class A32_LeeInhyeok_0712 {
+public class A032_LeeInhyeok_0712 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);

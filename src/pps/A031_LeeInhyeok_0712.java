@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
  * 백준 2163번 
  */
-public class A31_LeeInhyeok_0712 {
+public class A031_LeeInhyeok_0712 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
